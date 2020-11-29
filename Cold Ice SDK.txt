@@ -1,0 +1,49 @@
+________________________________________
+COLD ICE USER SDK DEVELOPMENT KIT.
+
+
+(we do not have a website anymore.)
+
+
+Easter, 2000.
+________________________________________
+
+
+This kit contains all the files to develop cold-ice by yourself.
+
+You are allowed to do whatever you want with this. I encourage a team to contniue
+the develop of cold-ice.
+
+Please remember this code was developed by the cold-ice team and if used,
+please give us credit.
+
+
+____________________
+The Cold Ice Team
+
+-Founder-
+SlimShady
+
+-C++ Coders-
+SlimShady
+
+-Modellers-
+Plug
+Wolfsinn
+Ixnay
+[HS] BlackJack
+
+-Mappers-
+Jope
+Laserus
+
+-2d Artists-
+Snipe
+___________________
+
+This team no long exists. 
+
+We would like to thank Valve for such a great game. 
+Without it, this modification would never of happen.
+
+surreal@optonline.net  <-- For final questions of Cold Ice.
